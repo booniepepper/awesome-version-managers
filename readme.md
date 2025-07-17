@@ -43,7 +43,7 @@
 - [anyenv](https://github.com/anyenv/anyenv) - A version manager wrapper allowing maintenance of multiple version managers.
 - [aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly.
 - [asdf-vm](https://github.com/asdf-vm/asdf) - An extendable version manager using a plugin structure to handle new version managers.
-- [mise](https://github.com/jdx/mise) - An `asdf` drop-in replacement written in Rust.
+- [mise](https://github.com/jdx/mise) - A polyglot tool version manager, with environment and task management features. Features dirt-simple usage, thoughtful [supply-chain security](https://github.com/jdx/mise/blob/main/SECURITY.md), supports multiple [backends](https://mise.jdx.dev/dev-tools/backends/), and is a drop-in replacement for both `asdf` and `direnv`.
 - [proto](https://github.com/moonrepo/proto) - A pluggable next-generation version manager for multiple programming languages as unified toolchain.
 - [vfox](https://github.com/version-fox/vfox) - A cross-platform, extensible version manager. It supports native Windows and Unix-like.
 - [woof](https://github.com/version-manager/woof) - A Bash-based version manager with plugin support optimized for UX
